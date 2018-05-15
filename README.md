@@ -1,6 +1,6 @@
 # BizAppFramework
 
-## What is this
+## What is this?
 
 This is a general purpose business application framework and starting point for new modern web application using [ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.0), [Angular](https://angular.io/) and [Typescript](https://www.typescriptlang.org/).
 
