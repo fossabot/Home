@@ -1,5 +1,7 @@
 # BizAppFramework
 
+[![Gitter](https://badges.gitter.im/BizAppFramework/general.svg)](https://gitter.im/BizAppFramework/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## What is this?
 
 This is a general purpose business application framework and starting point for new modern web application using [ASP.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.0), [Angular](https://angular.io/) and [Typescript](https://www.typescriptlang.org/).
