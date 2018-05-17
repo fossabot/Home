@@ -16,9 +16,11 @@
         <header>
             <h1>
                 <a href="{{ " / " | absolute_url }}">
-                    <img src="{{site.logo | relative_url}}" alt="{{ site.title | default: site.github.repository_name }}" />
+                    <img src="{{ " /assets/img/logo.png" | relative_url}}" alt="{{ site.title | default: site.github.repository_name }}" />
                 </a>
             </h1>
+
+
 
             <p>{{ site.description | default: site.github.project_tagline }}</p>
 
