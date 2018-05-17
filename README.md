@@ -1,3 +1,4 @@
+
 # BizAppFramework
 
 [![Gitter](https://badges.gitter.im/BizAppFramework/general.svg)](https://gitter.im/BizAppFramework/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -21,6 +22,10 @@ These are some of the most common repos:
 * [ng-cache](https://github.com/BizAppFramework/ng-cache) - Contains cache modules for Angular app.
 
 and [more](https://github.com/BizAppFramework).
+
+## Feedback
+
+Check out the [contributing](https://github.com/BizAppFramework/Home/blob/master/CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
 ## License
 
