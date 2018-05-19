@@ -1,7 +1,7 @@
-
 # BizAppFramework
 
 [![Gitter](https://badges.gitter.im/BizAppFramework/general.svg)](https://gitter.im/BizAppFramework/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBizAppFramework%2FHome.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBizAppFramework%2FHome?ref=badge_shield)
 
 ## What is this?
 
@@ -30,3 +30,6 @@ Check out the [contributing](https://github.com/BizAppFramework/Home/blob/master
 ## License
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBizAppFramework%2FHome.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBizAppFramework%2FHome?ref=badge_large)
